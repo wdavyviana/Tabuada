@@ -14,6 +14,9 @@ img{
     padding: 20px;
     max-width: 50px;
 }
+header h1{
+    text-shadow:3px 3px 2px #00000087;
+}
 header{
    
     display: grid;
@@ -27,6 +30,7 @@ section{
     margin: 50px auto;
     border-radius: 30px;
     padding: 20px;
+    box-shadow: 20px 20px 10px #00000087;
 }
 input{
     border: none;
