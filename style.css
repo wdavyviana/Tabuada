@@ -7,8 +7,9 @@ body{
     background-repeat: no-repeat;
     color: white;
     text-align: center;
-    height: 100vh;
+    min-height: 100vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 img{
     padding: 20px;
